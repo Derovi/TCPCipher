@@ -1,1 +1,1 @@
-java -jar lab-1.0-SNAPSHOT.jar client localhost 9995
+java -jar compiled.jar client localhost 9995
